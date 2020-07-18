@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Abubakar Diallo, Software Engineer
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on reactatom_symbol, rails, ruby
 - 🌱 I’m currently learning Ruby On Rails
 - 👯 I’m looking to collaborate on OSS
