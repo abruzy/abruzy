@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Abubakar Diallo, Software Engineer
 
-```sh
+<pre>
 - 🔭 I’m currently working on reactatom_symbol, rails, ruby
 - 🌱 I’m currently learning Ruby On Rails
 - 👯 I’m looking to collaborate on OSS
@@ -9,6 +9,6 @@
 - 📫 How to reach me: dialloabubakar5861@gmail.com
 - 😄 Pronouns: Him/They/Them
 - ⚡ Fun fact: I love swimming and playing game
-```
+</pre>
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=abruzy&hide=["issues"]&show_icons=true)
