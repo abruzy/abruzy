@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Abubakar Diallo, Software Engineer
 
 Here are some ideas to get you started:
 
