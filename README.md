@@ -8,3 +8,5 @@
 - 📫 How to reach me: dialloabubakar5861@gmail.com
 - 😄 Pronouns: Him/They/Them
 - ⚡ Fun fact: I love swimming and playing game
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
