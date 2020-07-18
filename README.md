@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with React and Ruby On Rails
 - 💬 Ask me about anything
 - 📫 How to reach me: dialloabubakar5861@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love swimming and game
+- 😄 Pronouns: Him/They/Them
+- ⚡ Fun fact: I love swimming and playing game
