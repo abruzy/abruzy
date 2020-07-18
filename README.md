@@ -1,3 +1,7 @@
+Olá meu nome é Luiz Carlos, Desenvolvedor Fullstack JavaScript e aspirante a DevOps.
+    /
+    Hello my name is Luiz Carlos, Fullstack JavaScript Developer and aspiring DevOps.
+
 ### Hi there 👋 I'm Abubakar Diallo, Software Engineer
 
 - 🔭 I’m currently working on reactatom_symbol, rails, ruby
