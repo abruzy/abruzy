@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Abubakar Diallo, Software Engineer
 
-```
+```sh
 - 🔭 I’m currently working on reactatom_symbol, rails, ruby
 - 🌱 I’m currently learning Ruby On Rails
 - 👯 I’m looking to collaborate on OSS
